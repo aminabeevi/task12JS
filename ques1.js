@@ -1,0 +1,11 @@
+//4444
+//333
+//22
+//1
+for(row=4;row>=1;row--){
+    str=""
+    for(col=1;col<=row;col++){
+        str+=row
+    }
+    console.log(str)
+}
